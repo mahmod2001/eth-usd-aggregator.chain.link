@@ -1,1 +1,1 @@
-# rinkeby.explorer.chain.link.
+# eth-usd-aggregator.chain.link
